@@ -5,8 +5,8 @@
     "license": "BSD-2-Clause",
     "authors": [
         {
-            "name": "maknz",
-            "email": "github@mak.geek.nz"
+            "name": "ktsutsumi",
+            "email": "kota.tsutsumi.p@gmail.com"
         }
     ],
     "require": {
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Maknz\\Slack\\Laravel\\": "src/"
+            "Ktsutsumi\\Slack\\Laravel\\": "src/"
         }
     },
     "minimum-stability": "stable"
